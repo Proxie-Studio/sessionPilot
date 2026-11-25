@@ -1,0 +1,12 @@
+import { sveltekit } from '@sveltejs/kit/vite';
+import adapter from '@sveltejs/adapter-static';
+import { defineConfig } from 'vite';
+
+export default defineConfig({
+  plugins: [
+    sveltekit({
+      // Fully prerendered static site; unknown URLs fall back to 404.html
+      adapter: adapter({ pages: 'build', assets: 'build', fallback: '404.html', strict: false })
+    })
+  ]
+});

@@ -1,0 +1,1033 @@
+[
+ {
+  "slug": "article1",
+  "title": "How Amir Runs Bella Ciao Amsterdam Without the Sunday-Night Scheduling Scramble",
+  "sub": "Schedule shifts, manage swaps, track real hours, and send payroll without the weekly admin headache.",
+  "date": "Aug 19, 2026",
+  "img": "o7NrRDkHq0hNpBTTCnujRJeNLE4.jpeg",
+  "hero": "o7NrRDkHq0hNpBTTCnujRJeNLE4.jpeg",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Ask any restaurant owner what eats their week and the answer is rarely the food. It's the rota. Who's in on Friday, who called in sick, whether the kitchen is covered when two servers both booked the same weekend off, and whether all of it adds up to hours that payroll can actually process. For Amir, who runs Bella Ciao in Amsterdam, that used to mean a laptop, a spreadsheet, and a Sunday evening he'd rather have spent anywhere else."
+   },
+   {
+    "t": "p",
+    "x": "Today the schedule for the coming week is built in about twenty minutes, his team sees it on their phones the moment it's published, and the hours flow straight into payroll without him re-typing a single number. Here's what changed."
+   },
+   {
+    "t": "h",
+    "x": "The problem wasn't the software it was the seams"
+   },
+   {
+    "t": "p",
+    "x": "Bella Ciao isn't a huge operation, but it has all the moving parts of one: a floor team, a kitchen, part-timers with study timetables, and the unpredictable rhythm of a city-centre restaurant where a sunny Thursday can double covers with no warning."
+   },
+   {
+    "t": "p",
+    "x": "Before Session Pilot, Amir wasn't working without tools. He was working with too many. A spreadsheet for the rota. A WhatsApp group for swaps and sick calls. A separate step at the end of the month to tally everyone's hours before sending them to the accountant. Each of those on its own was fine. The problem was the seams between them, every handoff was a place for a mistake to slip in, and every mistake cost him time he didn't have."
+   },
+   {
+    "t": "p",
+    "x": "The classic failure looked like this: someone swapped a shift in the WhatsApp group, Amir missed it, the spreadsheet stayed wrong, and at month-end the hours didn't match what the person actually worked. Sorting that out meant scrolling back through chat history to reconstruct what really happened."
+   },
+   {
+    "t": "h",
+    "x": "One place for the whole week"
+   },
+   {
+    "t": "p",
+    "x": "The first thing Session Pilot did was collapse those seams into a single view. Amir builds the week's schedule in one place floor and kitchen, full-timers and students, all visible together. He can see at a glance where he's thin and where he's overstaffed before the week even starts, instead of finding out on the night."
+   },
+   {
+    "t": "p",
+    "x": "Because the product is built for horeca specifically, it speaks Amir's language rather than a generic \"employee shift\" abstraction. Availability, roles, and the reality that a slow Monday and a rammed Saturday need completely different staffing are baked in, not bolted on."
+   },
+   {
+    "t": "h",
+    "x": "The team sees it, and swaps handle themselves"
+   },
+   {
+    "t": "p",
+    "x": "The moment a schedule is published, everyone at Bella Ciao sees it on their phone. No screenshot in a group chat, no \"which version is the latest one?\" When someone needs to swap or flag they can't make a shift, it happens inside the system, and Amir sees the change reflected in the schedule immediately, not buried three days deep in a chat thread."
+   },
+   {
+    "t": "p",
+    "x": "That single shift did more for Amir's stress levels than almost anything else. The rota and the reality of who's actually working are now the same thing."
+   },
+   {
+    "t": "h",
+    "x": "Clock in, clock out the gap between planned and paid closes"
+   },
+   {
+    "t": "p",
+    "x": "A schedule is a plan. What people actually work is something else. A prep cook comes in half an hour early to get ahead on a busy night. A server stays forty-five minutes past close because a big table lingered. Someone covers the tail end of a shift for a colleague who had to leave. Every one of those is real worked time, and in the old setup every one of them was a small negotiation Amir had to remember, adjudicate, and manually adjust."
+   },
+   {
+    "t": "p",
+    "x": "With clock in and clock out, the team taps in when they start and out when they finish, and Session Pilot records the actual hours against the shift. Amir can see planned versus worked side by side, where the night ran long, where someone left early without anyone having to argue their case from memory. It also quietly solved the smaller frictions: no more guessing whether a late start was five minutes or twenty, no more \"I definitely stayed till eleven\" conversations with no way to check."
+   },
+   {
+    "t": "p",
+    "x": "For Amir it does two jobs at once. It gives him an honest read on labour: he can see that Fridays consistently run over and staff accordingly, or spot that a shift is padded and trim it. And it means the hours he pays are the hours actually worked, not the hours he thought he scheduled three weeks ago."
+   },
+   {
+    "t": "h",
+    "x": "Hours become payroll without the re-typing"
+   },
+   {
+    "t": "p",
+    "x": "This is the part Amir describes as the biggest relief, and it's where the clock data pays off. At the end of the period, the hours everyone worked are already in the system accurate, because they come from real clock in/clock out data, not a month-end reconstruction from a spreadsheet and a chat thread. Session Pilot exports those hours in a format payroll can use directly, so the tally-it-all-up evening simply disappeared."
+   },
+   {
+    "t": "p",
+    "x": "For Amir, that's not just saved time. It's fewer errors, fewer awkward \"your paycheck was short\" conversations, and a clean handoff to whoever does the numbers."
+   },
+   {
+    "t": "h",
+    "x": "Pricing he doesn't have to decode"
+   },
+   {
+    "t": "p",
+    "x": "One reason Amir moved in the first place: he could actually understand what he was paying. Session Pilot is a flat €4 per employee per month, all-in. No tiered add-ons that unlock the feature you assumed was included, no per-integration surcharge, no surprise line items. For a venue Bella Ciao's size, that predictability matters as much as the features, Amir knows exactly what next month costs, and it scales cleanly as he hires."
+   },
+   {
+    "t": "h",
+    "x": "What Amir actually got back"
+   },
+   {
+    "t": "p",
+    "x": "The honest headline isn't a flashy percentage. It's this: Amir got his Sunday evening back, and he got a week that runs on one source of truth instead of four."
+   },
+   {
+    "t": "p",
+    "x": "The schedule takes minutes, not an evening."
+   },
+   {
+    "t": "p",
+    "x": "The team always knows where they stand."
+   },
+   {
+    "t": "p",
+    "x": "Swaps and sick calls update the rota automatically instead of living in a chat thread."
+   },
+   {
+    "t": "p",
+    "x": "Clock in/clock out captures actual worked hours, so planned and paid finally match."
+   },
+   {
+    "t": "p",
+    "x": "Hours flow into payroll without manual re-entry."
+   },
+   {
+    "t": "p",
+    "x": "The bill is a number he can predict."
+   },
+   {
+    "t": "p",
+    "x": "None of that is glamorous. All of it is the difference between a restaurant that runs Amir and a restaurant Amir runs."
+   },
+   {
+    "t": "p",
+    "x": "Bella Ciao Amsterdam uses Session Pilot for scheduling, shift management, and payroll export. If you run a horeca venue and recognise the Sunday-night scramble, that's exactly the problem Session Pilot was built to remove."
+   }
+  ]
+ },
+ {
+  "slug": "article2",
+  "title": "How Babal Restaurant Runs Two Amsterdam Locations Without Losing Control of the Details",
+  "sub": "Run two locations from one place, keep teams aligned, track what’s happening at each branch, and manage day-to-day operations without constantly jumping between systems.",
+  "date": "Sep 23, 2026",
+  "img": "Cu9g5RmnGiw9wOTiBkux1cHoCwY.jpeg",
+  "hero": "Cu9g5RmnGiw9wOTiBkux1cHoCwY.jpeg",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Running one restaurant is complicated enough. Running two means every operational detail has to work twice without doubling the admin."
+   },
+   {
+    "t": "p",
+    "x": "For Babal Restaurant in Amsterdam, that meant keeping two teams, two schedules, different staffing needs, and the daily realities of two locations aligned. A change at one branch shouldn't require a dozen messages. A manager shouldn't have to chase information from the other location. And the owner shouldn't need to piece together what happened across both restaurants at the end of the week."
+   },
+   {
+    "t": "p",
+    "x": "With Session Pilot, Babal brought both locations into one operational view. Managers can handle their own teams while keeping the bigger picture in sight, making it easier to understand what's happening across the business without constantly switching between spreadsheets, chats, and separate systems."
+   },
+   {
+    "t": "p",
+    "x": "Here's what changed."
+   },
+   {
+    "t": "h",
+    "x": "The challenge wasn't running two restaurants it was keeping them connected"
+   },
+   {
+    "t": "p",
+    "x": "Each Babal location has its own rhythm."
+   },
+   {
+    "t": "p",
+    "x": "Different teams. Different staffing requirements. Different busy periods. Different day-to-day issues."
+   },
+   {
+    "t": "p",
+    "x": "Before bringing everything into one system, that naturally created a communication problem. Information about schedules, availability, swaps, attendance, and worked hours could live in different places depending on which branch it related to."
+   },
+   {
+    "t": "p",
+    "x": "That works when you're dealing with one small team."
+   },
+   {
+    "t": "p",
+    "x": "Across two locations, the gaps become much harder to manage."
+   },
+   {
+    "t": "p",
+    "x": "A manager needs to know who is working today. Someone needs to cover a shift. A team member is unavailable next week. Hours need to be checked before payroll. None of these are particularly complicated tasks on their own, but when they're happening simultaneously across two restaurants, the administrative load adds up quickly."
+   },
+   {
+    "t": "p",
+    "x": "The real challenge was creating one operational picture without taking away the independence each location needs to run its own day."
+   },
+   {
+    "t": "h",
+    "x": "Two locations, one operational view"
+   },
+   {
+    "t": "p",
+    "x": "Session Pilot gives Babal a central place to manage both branches."
+   },
+   {
+    "t": "p",
+    "x": "Managers can work with their own teams and schedules, while the business can maintain visibility across the locations. Instead of asking for updates or opening separate files to understand what's happening, the information is available in one system."
+   },
+   {
+    "t": "p",
+    "x": "That makes the difference between managing two restaurants and simply managing the distance between them."
+   },
+   {
+    "t": "p",
+    "x": "The schedule for one location doesn't get mixed up with the other. Teams know which shifts belong to them. Managers can focus on their branch while the people responsible for the wider operation can see the bigger picture."
+   },
+   {
+    "t": "p",
+    "x": "For Babal, the goal isn't to make both restaurants operate identically."
+   },
+   {
+    "t": "p",
+    "x": "It's to make sure both restaurants operate from the same operational foundation."
+   },
+   {
+    "t": "h",
+    "x": "Every location has its own staffing reality"
+   },
+   {
+    "t": "p",
+    "x": "A two-location restaurant doesn't mean two identical staffing plans."
+   },
+   {
+    "t": "p",
+    "x": "One branch might need more people on a particular evening. Another might have a different mix of full-time employees, part-timers, or team members with changing availability."
+   },
+   {
+    "t": "p",
+    "x": "Session Pilot keeps those realities visible instead of forcing everything into a one-size-fits-all schedule."
+   },
+   {
+    "t": "p",
+    "x": "Managers can build schedules around the actual needs of their location, while availability and roles remain connected to the people being scheduled."
+   },
+   {
+    "t": "p",
+    "x": "That means the question isn't simply, \"Who works for Babal?\""
+   },
+   {
+    "t": "p",
+    "x": "It's, \"Who needs to be where, and when?\""
+   },
+   {
+    "t": "p",
+    "x": "That distinction becomes increasingly important as a restaurant group grows."
+   },
+   {
+    "t": "h",
+    "x": "Changes stay connected to the schedule"
+   },
+   {
+    "t": "p",
+    "x": "In a busy restaurant, the schedule you publish on Monday rarely survives untouched until Sunday."
+   },
+   {
+    "t": "p",
+    "x": "People get sick. Plans change. Shifts need to be swapped. Someone needs to stay longer. Someone else can't make it."
+   },
+   {
+    "t": "p",
+    "x": "Across two locations, those changes can become even harder to track."
+   },
+   {
+    "t": "p",
+    "x": "With Session Pilot, schedule changes happen inside the same system as the original rota. When a team member swaps a shift or a manager makes an adjustment, the schedule reflects what is actually happening."
+   },
+   {
+    "t": "p",
+    "x": "There is no need to rely on a screenshot sent to a WhatsApp group and hope everyone is looking at the latest version."
+   },
+   {
+    "t": "p",
+    "x": "For Babal, that means the schedule becomes a live operational tool rather than a document that quickly becomes outdated."
+   },
+   {
+    "t": "h",
+    "x": "Managers get autonomy without losing visibility"
+   },
+   {
+    "t": "p",
+    "x": "One of the biggest advantages of operating multiple locations is also one of the biggest challenges: managers need enough autonomy to run their restaurants without creating completely separate operational systems."
+   },
+   {
+    "t": "p",
+    "x": "Session Pilot gives Babal a way to keep those two things balanced."
+   },
+   {
+    "t": "p",
+    "x": "The manager at each location can focus on their own team and day-to-day staffing. At the same time, the wider operation doesn't disappear into two separate worlds."
+   },
+   {
+    "t": "p",
+    "x": "That makes it easier to answer simple but important questions:"
+   },
+   {
+    "t": "p",
+    "x": "Who's working today?"
+   },
+   {
+    "t": "p",
+    "x": "Where are we understaffed?"
+   },
+   {
+    "t": "p",
+    "x": "Which shifts have changed?"
+   },
+   {
+    "t": "p",
+    "x": "How many hours have people actually worked?"
+   },
+   {
+    "t": "p",
+    "x": "What's happening at the other location?"
+   },
+   {
+    "t": "p",
+    "x": "Instead of collecting those answers manually, they're part of the same operational picture."
+   },
+   {
+    "t": "h",
+    "x": "Planned hours and actual hours tell different stories"
+   },
+   {
+    "t": "p",
+    "x": "The schedule tells Babal what should happen."
+   },
+   {
+    "t": "p",
+    "x": "Clock in and clock out data tells them what actually happened."
+   },
+   {
+    "t": "p",
+    "x": "A team member might arrive early for prep. A busy service might run late. A shift might finish earlier than planned. Across two branches, those differences can become difficult to keep track of manually."
+   },
+   {
+    "t": "p",
+    "x": "With Session Pilot, actual worked hours are recorded against scheduled shifts."
+   },
+   {
+    "t": "p",
+    "x": "That gives Babal a clearer view of the relationship between planned staffing and real labour."
+   },
+   {
+    "t": "p",
+    "x": "If one location regularly runs longer on certain evenings, that's visible."
+   },
+   {
+    "t": "p",
+    "x": "If another consistently finishes early, that's visible too."
+   },
+   {
+    "t": "p",
+    "x": "Instead of relying on memory or asking managers to reconstruct the week, the operational data is already there."
+   },
+   {
+    "t": "h",
+    "x": "One system instead of two separate admin routines"
+   },
+   {
+    "t": "p",
+    "x": "The biggest benefit of managing multiple locations isn't necessarily another feature."
+   },
+   {
+    "t": "p",
+    "x": "It's removing duplicated work."
+   },
+   {
+    "t": "p",
+    "x": "Without a connected system, every operational task risks being repeated for every branch: building schedules, checking changes, tracking hours, resolving discrepancies, and preparing information for payroll."
+   },
+   {
+    "t": "p",
+    "x": "With Session Pilot, those processes happen within the same platform."
+   },
+   {
+    "t": "p",
+    "x": "Babal doesn't need one operational workflow for location A and another for location B."
+   },
+   {
+    "t": "p",
+    "x": "They have one system that accommodates both."
+   },
+   {
+    "t": "p",
+    "x": "That becomes particularly valuable as the business grows. Adding another location shouldn't mean adding another collection of spreadsheets, chat groups, and manual processes."
+   },
+   {
+    "t": "p",
+    "x": "The operational foundation is already there."
+   },
+   {
+    "t": "h",
+    "x": "What Babal gets from running both locations through one system"
+   },
+   {
+    "t": "p",
+    "x": "The real benefit isn't that Babal has fewer screens open."
+   },
+   {
+    "t": "p",
+    "x": "It's that the business has a clearer connection between its locations."
+   },
+   {
+    "t": "p",
+    "x": "Both Amsterdam locations can be managed from one operational system."
+   },
+   {
+    "t": "p",
+    "x": "Managers can focus on their own teams while maintaining wider visibility."
+   },
+   {
+    "t": "p",
+    "x": "Schedules stay connected to real-time changes."
+   },
+   {
+    "t": "p",
+    "x": "Shift swaps and availability don't disappear into separate chat threads."
+   },
+   {
+    "t": "p",
+    "x": "Clock in/clock out records actual worked hours."
+   },
+   {
+    "t": "p",
+    "x": "Planned and worked hours can be compared across locations."
+   },
+   {
+    "t": "p",
+    "x": "Payroll preparation doesn't require reconstructing hours from multiple sources."
+   },
+   {
+    "t": "p",
+    "x": "Adding another location doesn't require rebuilding the entire administrative process."
+   },
+   {
+    "t": "p",
+    "x": "None of this changes what happens on the restaurant floor."
+   },
+   {
+    "t": "p",
+    "x": "It changes how much work happens behind it."
+   },
+   {
+    "t": "p",
+    "x": "For Babal, running two locations doesn't have to mean running two separate administrative operations."
+   },
+   {
+    "t": "p",
+    "x": "It's two restaurants, one operational view."
+   },
+   {
+    "t": "p",
+    "x": "Babal Restaurant Amsterdam uses Session Pilot to manage its multi-location operations, including scheduling, shift management, and worked hours. If you're running more than one horeca location and finding that the admin grows faster than the business, Session Pilot was built to keep the operation connected."
+   }
+  ]
+ },
+ {
+  "slug": "article3",
+  "title": "How 't Frietje Ede Schedules 50 People Straight from Nmbrs",
+  "sub": "At 't Frietje on the Boogstraat in Ede, the kitchen is frying, the counter is serving, online orders keep coming in, and riders are delivering across town, six days a week, with a team of 50.",
+  "date": "Oct 6, 2026",
+  "img": "isO3j5MUuq75LucQMtW9Y5zp7I.png",
+  "hero": "isO3j5MUuq75LucQMtW9Y5zp7I.png",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "With Session Pilot, 't Frietje skipped that step entirely."
+   },
+   {
+    "t": "h",
+    "x": "The setup is the real hurdle"
+   },
+   {
+    "t": "p",
+    "x": "Most of the team works part-time, many are students with shifting availability, and kitchen, counter and delivery each have their own staffing needs. But the first obstacle with any scheduling tool is day one: adding fifty employees by hand. For many horeca owners, that's where the switch stalls."
+   },
+   {
+    "t": "h",
+    "x": "Imported straight from Nmbrs"
+   },
+   {
+    "t": "p",
+    "x": "'t Frietje already runs HR and payroll in Nmbrs, so every employee record already existed. Session Pilot connects to Nmbrs and pulls the whole team in, with no retyping and no copied contract details. Nmbrs stays the single source of employee data, new hires are added once, and names and details always match the payslip."
+   },
+   {
+    "t": "h",
+    "x": "From imported team to published rota"
+   },
+   {
+    "t": "p",
+    "x": "Each employee is linked to kitchen, counter or delivery, with their availability right next to them. Managers can build the week by hand or describe what they need in plain language and let Session Pilot generate a first draft. Once published, everyone sees their own shifts on their phone. No screenshots, no outdated versions."
+   },
+   {
+    "t": "h",
+    "x": "A schedule that keeps up"
+   },
+   {
+    "t": "p",
+    "x": "Sick calls, swaps and last-minute changes happen in the same place as the original rota, so the schedule always reflects what's really happening."
+   },
+   {
+    "t": "p",
+    "x": "Worked hours, recorded as they happen"
+   },
+   {
+    "t": "p",
+    "x": "Employees clock in and out by scanning a QR code. Early starts and late Friday rushes are recorded against the planned shift, so worked hours are ready for payroll preparation without reconstructing them from memory or chat messages."
+   },
+   {
+    "t": "h",
+    "x": "The result"
+   },
+   {
+    "t": "p",
+    "x": "The admin no longer grows with the headcount. For 't Frietje, a team of 50 doesn't mean fifty times the work. It's fifty people, one team, one place to plan them."
+   },
+   {
+    "t": "p",
+    "x": "Cafetaria 't Frietje in Ede uses Session Pilot for shift planning, scheduling and worked hours, connected to Nmbrs. If onboarding everyone by hand is what's holding you back, Session Pilot was built to take that step out."
+   }
+  ]
+ },
+ {
+  "slug": "article4",
+  "title": "How Gallipos Apeldoorn Plans Every Department in One Rota",
+  "sub": "Gallipos, the Turkish restaurant on the Hoofdstraat in Apeldoorn, is open from ten in the morning until ten at night.",
+  "date": "Oct 6, 2026",
+  "img": "hlJaW82oddaZLdL3dc6ORIMe1QU.png",
+  "hero": "hlJaW82oddaZLdL3dc6ORIMe1QU.png",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "With Session Pilot, Gallipos plans each department on its own terms, in one rota."
+   },
+   {
+    "t": "h",
+    "x": "One restaurant, several teams"
+   },
+   {
+    "t": "p",
+    "x": "The kitchen starts early with prep and peaks when orders stack up. Service follows the guests, with separate lunch and dinner waves. Takeaway adds a third stream of its own. So \"how many people do we need on Friday?\" has one answer per department, not one for the whole restaurant."
+   },
+   {
+    "t": "h",
+    "x": "A flat list hides the gaps"
+   },
+   {
+    "t": "p",
+    "x": "A spreadsheet can show that six people work Saturday evening. It can't show that five are in service and only one is in the kitchen. The total looks fine, and the problem only appears when the orders do. The hard part was never the headcount. It's having the right people in the right place."
+   },
+   {
+    "t": "h",
+    "x": "Every employee belongs to a department"
+   },
+   {
+    "t": "p",
+    "x": "In Session Pilot, Gallipos sets up its departments and links each employee to the one they work in. The team list now mirrors how the restaurant is organised, roles stay attached to each person, and new hires slot straight into their department."
+   },
+   {
+    "t": "h",
+    "x": "Building the rooster, department by department"
+   },
+   {
+    "t": "p",
+    "x": "Each department gets its own shifts, planned around its own busy moments. The manager sees the whole week in one view, so a thin Saturday in the kitchen shows up while the rota is still a draft. Availability sits next to each employee, and managers can build the week by hand or describe what they need in plain language and let Session Pilot generate a first version."
+   },
+   {
+    "t": "h",
+    "x": "Everyone knows where to be"
+   },
+   {
+    "t": "p",
+    "x": "Once published, every employee sees their own shifts, department and times in the app. Swaps and sick calls are handled in the rota itself, so it always shows what's really happening."
+   },
+   {
+    "t": "h",
+    "x": "Worked hours, organised the same way"
+   },
+   {
+    "t": "p",
+    "x": "Employees clock in and out with a QR code, and Session Pilot turns those hours into timesheets automatically. Because every employee belongs to a department, Gallipos can see who worked, how long, and where."
+   },
+   {
+    "t": "h",
+    "x": "The result"
+   },
+   {
+    "t": "p",
+    "x": "A rota that matches how the restaurant actually runs. For Gallipos, several departments don't mean several schedules. It's one restaurant, one rooster, and everyone in the right place."
+   },
+   {
+    "t": "p",
+    "x": "Gallipos in Apeldoorn uses Session Pilot to manage its departments, plan the weekly rota and record worked hours. If your kitchen and your floor run on different rhythms, Session Pilot was built to plan them together."
+   }
+  ]
+ },
+ {
+  "slug": "article5",
+  "title": "Surya:Two Rosters, One Session Pilot Account",
+  "sub": "With Session Pilot Ops, Surya manages both locations through one account, with a separate rota for each branch and a shared view for the manager.",
+  "date": "Oct 12, 2026",
+  "img": "Ead9WhzDlYqcZ6bqsC02ME4qJA.jpg",
+  "hero": "1MoQIRl1OAVcvnMWhz7Hqyxk3k.jpg",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Both kitchens serve the same brand, but their days run differently. The restaurant plans around lunch and dinner service, while the takeaway branch follows the flow of orders and collection times. Coordinating staff across both locations meant keeping track of two schedules, last-minute changes and worked hours."
+   },
+   {
+    "t": "p",
+    "x": "With Session Pilot Ops, Surya manages both locations through one account, with a separate rota for each branch and a shared view for the manager."
+   },
+   {
+    "t": "h",
+    "x": "Two kitchens, two different rhythms"
+   },
+   {
+    "t": "p",
+    "x": "The restaurant at Janskerkhof needs staff for the dining room, kitchen preparation and long service hours. Surya To Go has a different priority: getting orders ready for pickup and delivery, with enough people behind the counter when demand rises."
+   },
+   {
+    "t": "p",
+    "x": "Planning both locations as if they were one team would leave gaps in one place and excess staff in another. Each branch needs its own shifts and staffing levels, even when some employees can work at either location."
+   },
+   {
+    "t": "h",
+    "x": "Separate schedules made coordination harder"
+   },
+   {
+    "t": "p",
+    "x": "Before Session Pilot, the two branches planned their rotas separately. Staff who could work at both locations could be double-booked or overlooked, while sick calls and shift swaps moved through group chats."
+   },
+   {
+    "t": "p",
+    "x": "Worked hours also had to be pieced together for each branch at the end of the month. The challenge was not simply creating two schedules. It was keeping them consistent while giving the manager a clear picture of the whole operation."
+   },
+   {
+    "t": "h",
+    "x": "One account, two locations"
+   },
+   {
+    "t": "p",
+    "x": "In Session Pilot Ops, Surya manages Janskerkhof and Surya To Go under one account. Each location has its own rota, departments, opening hours and staffing needs."
+   },
+   {
+    "t": "p",
+    "x": "Kitchen, service and takeaway or counter roles can be planned according to the work each branch needs. Employees have a single profile, including those who work across both locations, and scheduling conflicts can be flagged before the rota is published."
+   },
+   {
+    "t": "p",
+    "x": "The manager can view both branches side by side, by day or by week, without losing the detail each location needs."
+   },
+   {
+    "t": "h",
+    "x": "Building the week in plain language"
+   },
+   {
+    "t": "p",
+    "x": "Instead of starting with a blank spreadsheet, the manager can describe the staffing requirements in everyday language. For example, two cooks and three servers might be needed at Janskerkhof on Friday evening, while Surya To Go needs additional counter staff from 17:00."
+   },
+   {
+    "t": "p",
+    "x": "Session Pilot Ops uses those requirements, together with staff availability and roles, to generate a draft rota for each branch. The manager can review the schedules, make adjustments with drag and drop, and publish them when everything is ready."
+   },
+   {
+    "t": "p",
+    "x": "Each employee then sees their own shifts in the app, including the location where they are scheduled to work."
+   },
+   {
+    "t": "h",
+    "x": "Changes stay with the rota"
+   },
+   {
+    "t": "p",
+    "x": "When someone calls in sick or needs to swap a shift, the change can be handled in the app rather than through a group chat. The relevant branch's rota updates accordingly, giving the manager and staff a clearer view of the current schedule."
+   },
+   {
+    "t": "p",
+    "x": "Employees also clock in using a QR code at their location. The code refreshes every 15 seconds, helping ensure that recorded hours correspond to staff physically present at the branch."
+   },
+   {
+    "t": "h",
+    "x": "Worked hours, ready for payroll"
+   },
+   {
+    "t": "p",
+    "x": "Because employees clock in and out at their respective locations, Session Pilot records worked hours by person and branch. Instead of piecing together separate records at month-end, the manager has the hours organised and ready for payroll preparation."
+   },
+   {
+    "t": "p",
+    "x": "The same structure that keeps the rotas separate also makes it easier to see where people worked and how their hours are distributed across the two locations."
+   },
+   {
+    "t": "h",
+    "x": "The result"
+   },
+   {
+    "t": "p",
+    "x": "Two locations do not have to mean two disconnected planning processes. Surya can organise each branch around its own service, coordinate employees who work across both kitchens, and manage scheduling changes from one place."
+   },
+   {
+    "t": "p",
+    "x": "With AI-assisted rota planning, in-app shift management and QR clock-in, Session Pilot Ops brings the restaurant and takeaway operation into one coordinated system."
+   },
+   {
+    "t": "p",
+    "x": "Surya in Utrecht uses Session Pilot Ops to manage two locations, plan separate rotas and record worked hours across both branches. If your restaurant group runs multiple locations with different staffing needs, Session Pilot brings them together in one account while letting each team work to its own rhythm."
+   }
+  ]
+ },
+ {
+  "slug": "article6",
+  "title": "How Zorba Street Food makes its rooster with Session Pilot Ops",
+  "sub": "How street food teams are simplifying staff scheduling with AI-assisted planning in Session Pilot Ops.",
+  "date": "Oct 20, 2026",
+  "img": "UL4WTuyCKFuzi1Vye1v5VS5wmY.png",
+  "hero": "UL4WTuyCKFuzi1Vye1v5VS5wmY.png",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Zorba Street Food runs on timing. During the lunch rush, the team needs enough people to keep queues moving. On quieter afternoons, too many staff on the clock can mean unnecessary labour costs. Getting that balance right every week used to take hours of planning."
+   },
+   {
+    "t": "p",
+    "x": "Owner Zaio manages a team of full-time and part-time employees, each with different availability and working hours. Building the weekly roster meant collecting information from conversations and group chats, fitting shifts together manually, and sending out the latest version. With Session Pilot Ops, Zaio can describe what the week needs in plain language, review an AI-generated draft and publish the roster directly to his team's phones."
+   },
+   {
+    "t": "h",
+    "x": "A busy kitchen needs the right people at the right time"
+   },
+   {
+    "t": "p",
+    "x": "Street food operations have their own rhythm. Lunch periods can bring a sudden rush, while evenings and weekends may require different staffing levels. A fixed staffing pattern does not always reflect how demand changes throughout the week."
+   },
+   {
+    "t": "p",
+    "x": "Zorba also works with both full-time and part-time employees whose availability can vary. Planning around these differences means finding the right balance between covering busy periods, respecting working hours and avoiding unnecessary staffing."
+   },
+   {
+    "t": "p",
+    "x": "The challenge was not simply filling shifts. It was making sure the roster reflected how the business actually operates."
+   },
+   {
+    "t": "h",
+    "x": "Planning the week took time"
+   },
+   {
+    "t": "p",
+    "x": "Before Session Pilot Ops, Zaio built the weekly roster by bringing together information from messages, conversations and individual availability."
+   },
+   {
+    "t": "p",
+    "x": "The process involved collecting when people could work, arranging shifts on paper or in a spreadsheet, sharing the schedule in a group chat and updating it whenever someone called in sick or needed a shift swap."
+   },
+   {
+    "t": "p",
+    "x": "Each step seemed manageable on its own. Together, they could consume an entire evening every week. Manual updates also created room for scheduling gaps, double bookings and confusion about which version of the roster was current."
+   },
+   {
+    "t": "h",
+    "x": "From a blank schedule to an AI-generated roster"
+   },
+   {
+    "t": "p",
+    "x": "Session Pilot Ops changes how Zaio starts the planning process. Instead of filling an empty schedule one shift at a time, he can describe his staffing requirements in everyday language."
+   },
+   {
+    "t": "p",
+    "x": "For example, he might ask for two employees at the counter during lunch, three people on Friday and Saturday evenings, and part-time employees to stay within their contract hours."
+   },
+   {
+    "t": "p",
+    "x": "Session Pilot Ops uses these requirements alongside the team's availability to generate a draft roster. Zaio can then review the proposed shifts, make adjustments and publish the schedule when it is ready."
+   },
+   {
+    "t": "p",
+    "x": "The workflow follows three simple steps:"
+   },
+   {
+    "t": "p",
+    "x": "Describe the week. Zaio enters the expected busy periods, staffing levels and any special requirements."
+   },
+   {
+    "t": "p",
+    "x": "Review the draft. Session Pilot Ops generates a proposed roster based on team availability. Zaio can move shifts and make adjustments where needed."
+   },
+   {
+    "t": "p",
+    "x": "Publish the roster. Once approved, the schedule goes directly to employees through the Session Pilot app."
+   },
+   {
+    "t": "p",
+    "x": "Employees can then check their own shifts on their phones, without relying on screenshots or messages that may no longer reflect the latest schedule."
+   },
+   {
+    "t": "h",
+    "x": "Changes stay with the schedule"
+   },
+   {
+    "t": "p",
+    "x": "Restaurant and street food teams need to adapt when someone calls in sick or a shift swap becomes necessary. Previously, these changes could mean updating the schedule manually and contacting employees individually."
+   },
+   {
+    "t": "p",
+    "x": "With Session Pilot Ops, shift changes can be handled in the app, keeping the roster up to date in one place. The team has a clearer view of the current schedule, and Zaio spends less time chasing confirmations."
+   },
+   {
+    "t": "p",
+    "x": "Employees also clock in and out using a QR code in the app. The code refreshes every 15 seconds, helping ensure that clock-ins take place at the workplace."
+   },
+   {
+    "t": "h",
+    "x": "Worked hours, ready for payroll"
+   },
+   {
+    "t": "p",
+    "x": "Planning shifts is only part of managing a team. At the end of the month, managers also need to know how many hours employees actually worked."
+   },
+   {
+    "t": "p",
+    "x": "Session Pilot Ops records clock-in and clock-out data alongside planned shifts. This gives Zaio a clearer view of scheduled versus worked hours and reduces the need to reconstruct time records from separate sources when preparing payroll."
+   },
+   {
+    "t": "p",
+    "x": "The result is a more connected process, from building the roster at the start of the week to reviewing worked hours at the end of the month."
+   },
+   {
+    "t": "h",
+    "x": "The result"
+   },
+   {
+    "t": "p",
+    "x": "Zorba Street Food has moved from spending an evening piecing together a weekly roster to spending a few minutes reviewing an AI-generated draft."
+   },
+   {
+    "t": "p",
+    "x": "Staffing can follow the rhythm of the business, employees have access to the current schedule, and changes can be managed in one place. With QR-based clock-in and worked hours recorded alongside planned shifts, month-end preparation becomes more straightforward."
+   },
+   {
+    "t": "p",
+    "x": "Session Pilot Ops helps Zaio spend less time coordinating schedules and more time focusing on the food, customers and growth of the business."
+   },
+   {
+    "t": "p",
+    "x": "Zorba Street Food uses Session Pilot Ops to generate weekly rosters, manage shift changes and record worked hours. For restaurants and street food businesses looking to simplify staff planning, Session Pilot Ops brings AI-assisted scheduling and everyday workforce management together in one system."
+   },
+   {
+    "t": "p",
+    "x": "Make your roster the Zorba way"
+   },
+   {
+    "t": "p",
+    "x": "Zorba joins hospitality teams such as Bella Ciao Amsterdam, Babal and Gallipos that use Session Pilot Ops for staff planning. The platform is designed around the practical needs of restaurants and street food kitchens."
+   },
+   {
+    "t": "p",
+    "x": "Want to see how Session Pilot Ops can build your weekly roster from a single prompt? Book a demo with our team."
+   }
+  ]
+ },
+ {
+  "slug": "article7",
+  "title": "How Tío Bigotes swapped paper checklists for Session Pilot Ops",
+  "sub": "How a restaurant team in Den Haag moved its daily checklists, roster and clock-ins into one app.",
+  "date": "Oct 28, 2026",
+  "img": "rZfqzWqc9sHbNGA3UifHfVh89I.png",
+  "hero": "rZfqzWqc9sHbNGA3UifHfVh89I.png",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Every restaurant runs on routine. The doors need opening, the prep needs doing, the kitchen needs to stay clean and the place needs closing down properly. At Tío Bigotes Nederland in Den Haag, those tasks happen every single day, and someone needs to make sure they actually get done."
+   },
+   {
+    "t": "p",
+    "x": "The team of seven used to track that routine on printed Excel sheets and handwritten lists. Today they tick off opening, closing and cleaning tasks on their phones, in the same app they use for their roster and clock-ins: Session Pilot Ops. Checklists were the reason they switched, and Tío Bigotes signed on for a full year starting 1 November 2026."
+   },
+   {
+    "t": "h",
+    "x": "Paper checklists and a tool that stopped at shifts"
+   },
+   {
+    "t": "p",
+    "x": "Before Session Pilot Ops, the daily routine at Tío Bigotes lived on paper. Opening, prep, cleaning and closing tasks were printed out as Excel sheets or written by hand. Sheets got lost, ticks were missed, and the owner often only found out a task had been skipped once it had already become a problem."
+   },
+   {
+    "t": "p",
+    "x": "The team did use scheduling software, but it only handled shifts. It had no checklists. That meant the most repeated work in the restaurant stayed outside the system, and the team juggled one app for the roster and paper for everything else."
+   },
+   {
+    "t": "p",
+    "x": "Tío Bigotes wanted one place for both."
+   },
+   {
+    "t": "h",
+    "x": "What changes for Tío Bigotes"
+   },
+   {
+    "t": "p",
+    "x": "Switching to Session Pilot Ops replaced paper lists and a second tool with one app for the whole working day. Here is how each part of the routine has changed."
+   },
+   {
+    "t": "table",
+    "head": [
+     "Before",
+     "With Session Pilot Ops"
+    ],
+    "rows": [
+     [
+      "Daily checklists",
+      "Excel sheets and pen and paper",
+      "Ticked off in the app, visible to the owner"
+     ],
+     [
+      "Sharing the roster",
+      "In the old tool, apart from the checklists",
+      "On every employee's phone, next to their tasks"
+     ],
+     [
+      "Tracking hours",
+      "Memory and notes",
+      "QR clock-in and clock-out"
+     ],
+     [
+      "Month-end payroll",
+      "Rebuilding hours from scratch",
+      "Timesheet export, ready to check"
+     ]
+    ]
+   },
+   {
+    "t": "p",
+    "x": "For the team, their shifts and their tasks for the day now sit in one app. For the owner, there is one place to check what was done, who worked and when."
+   },
+   {
+    "t": "h",
+    "x": "Checklists: the daily routine on every phone"
+   },
+   {
+    "t": "p",
+    "x": "Checklists were the feature the old scheduling tool was missing, and the reason Tío Bigotes chose Session Pilot Ops. The owner sets up a checklist once, and the app brings it back every day. Opening, closing, cleaning and prep lists appear for the people on shift."
+   },
+   {
+    "t": "p",
+    "x": "Ticked off on the spot. Staff check items on their phone as they go, so nothing depends on a sheet of paper on the counter."
+   },
+   {
+    "t": "p",
+    "x": "Visible to the owner. The owner sees which tasks are done and which are still open, without walking around with a clipboard."
+   },
+   {
+    "t": "p",
+    "x": "Built once, reused daily. No more printing and filling in new Excel sheets every week."
+   },
+   {
+    "t": "h",
+    "x": "Scheduling: the week's roster from one sentence"
+   },
+   {
+    "t": "p",
+    "x": "With Session Pilot Ops, building the roster starts with a plain-language prompt instead of a blank schedule. The owner describes what the week needs, for example: \"Two people in the kitchen and one on the floor for lunch, three on the floor Friday and Saturday evening.\""
+   },
+   {
+    "t": "p",
+    "x": "The workflow follows three simple steps:"
+   },
+   {
+    "t": "p",
+    "x": "Prompt. Session Pilot Ops reads the team's availability and drafts a full roster that fits the request."
+   },
+   {
+    "t": "p",
+    "x": "Review. The owner checks the draft and moves a shift or two if needed."
+   },
+   {
+    "t": "p",
+    "x": "Publish. One tap sends the roster to every employee's phone."
+   },
+   {
+    "t": "p",
+    "x": "After that, changes happen in the app. Employees see their own shifts and request swaps, and the owner approves them, so the roster never splits into different versions in different chats. Announcements and team chat sit in the same place, so nothing important gets lost between messages."
+   },
+   {
+    "t": "h",
+    "x": "Clock-in and clock-out: real hours, recorded on the spot"
+   },
+   {
+    "t": "p",
+    "x": "At the start of a shift, employees open Session Pilot Ops and scan the restaurant's QR code to clock in. At the end, they scan again to clock out. That is the whole routine."
+   },
+   {
+    "t": "p",
+    "x": "No buddy clocking. The QR code lives in the app and refreshes every 15 seconds, so a photo of yesterday's code is useless. Each account can only be logged in on one device at a time."
+   },
+   {
+    "t": "p",
+    "x": "Planned vs. worked. Every clock-in sits next to the planned shift, so the owner sees at a glance who started late, who stayed longer, and where the roster and reality differ."
+   },
+   {
+    "t": "p",
+    "x": "Ready for payroll. Worked hours add up automatically and export as a timesheet. Month-end becomes a check, not a reconstruction."
+   },
+   {
+    "t": "h",
+    "x": "The result"
+   },
+   {
+    "t": "p",
+    "x": "Tío Bigotes has moved its whole working day into one app. The daily routine is ticked off on phones instead of paper, the weekly roster starts from a single prompt, and worked hours are recorded the moment people clock in and out."
+   },
+   {
+    "t": "p",
+    "x": "The owner no longer needs a clipboard, a second scheduling tool or a stack of printed sheets to know what is happening in the restaurant. That leaves more time for the food, the guests and the team."
+   },
+   {
+    "t": "h",
+    "x": "Run your restaurant like Tío Bigotes"
+   },
+   {
+    "t": "p",
+    "x": "Tío Bigotes joins restaurants such as Bella Ciao in Amsterdam, Gallipos in Apeldoorn, 't Frietjes and Zorba Street Food that run their roster on Session Pilot Ops. Checklists, scheduling, clock-in and clock-out, tasks, team chat and timesheet export all come in one app, designed around the practical needs of restaurant teams."
+   },
+   {
+    "t": "p",
+    "x": "Want to see how it works for your team? Book a short demo with Session Pilot and we'll set up your first roster together."
+   }
+  ]
+ }
+]

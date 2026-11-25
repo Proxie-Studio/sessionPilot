@@ -1,0 +1,388 @@
+{
+ "updated": "Last updated · 17 August 2026",
+ "blocks": [
+  {
+   "t": "p",
+   "x": "These Terms &amp; Conditions govern your access to and use of SessionPilot, including the SessionPilot OPS platform, website, applications, and related services, provided by Session Pilot B.V., the operator of SessionPilot ."
+  },
+  {
+   "t": "sec",
+   "n": "1",
+   "x": "The plain-English version"
+  },
+  {
+   "t": "p",
+   "x": "SessionPilot is a digital restaurant operations platform that helps businesses manage daily tasks, checklists, employees, shifts, procedures, food-safety records, maintenance, communication, documents, and operational reporting. You remain responsible for your restaurant operations and for the information entered into the Service. SessionPilot provides the tools to organise and manage that information but does not replace your legal, food-safety, employment, payroll, or management responsibilities. We aim to keep the Service available, secure, and reliable, but no online service can guarantee uninterrupted operation."
+  },
+  {
+   "t": "sec",
+   "n": "2",
+   "x": "Eligibility &amp; account"
+  },
+  {
+   "t": "ul",
+   "x": [
+    "You must be legally capable of entering into a binding agreement.",
+    "If you create an account for an organisation, you must have authority to do so.",
+    "You are responsible for keeping your account credentials secure.",
+    "You must provide accurate and current information.",
+    "You are responsible for activity carried out through your account.",
+    "You must notify us if you suspect unauthorised access.",
+    "Account access may be limited or suspended where reasonably necessary to protect the Service, users, or other customers.",
+    "You must not share account credentials in a way that bypasses your subscription limits or access controls."
+   ]
+  },
+  {
+   "t": "sec",
+   "n": "3",
+   "x": "The Service &amp; acceptable use"
+  },
+  {
+   "t": "p",
+   "x": "You retain ownership of the information, documents, employee records, checklists, schedules, reports, images, and other content you submit to SessionPilot (\"Customer Data\")."
+  },
+  {
+   "t": "p",
+   "x": "You grant SessionPilot the limited rights necessary to host, process, store, display, and transmit Customer Data solely to provide and operate the Service."
+  },
+  {
+   "t": "p",
+   "x": "You are responsible for ensuring that you have the necessary rights and lawful basis to provide Customer Data to SessionPilot, including employee and other personal data."
+  },
+  {
+   "t": "p",
+   "x": "Where SessionPilot processes personal data on your behalf, the parties' respective obligations will be governed by applicable data-protection law and, where required, a separate <strong>Data Processing Agreement (DPA)</strong>."
+  },
+  {
+   "t": "p",
+   "x": "SessionPilot will not sell Customer Data."
+  },
+  {
+   "t": "p",
+   "x": "We will not use Customer Data for unrelated advertising purposes."
+  },
+  {
+   "t": "sec",
+   "n": "4",
+   "x": "Your data &amp; content"
+  },
+  {
+   "t": "p",
+   "x": "You retain ownership of the information, documents, employee records, checklists, schedules, reports, images, and other content you submit to SessionPilot (\"Customer Data\")."
+  },
+  {
+   "t": "p",
+   "x": "You grant SessionPilot the limited rights necessary to host, process, store, display, and transmit Customer Data solely to provide and operate the Service."
+  },
+  {
+   "t": "p",
+   "x": "You are responsible for ensuring that you have the necessary rights and lawful basis to provide Customer Data to SessionPilot, including employee and other personal data."
+  },
+  {
+   "t": "p",
+   "x": "Where SessionPilot processes personal data on your behalf, the parties' respective obligations will be governed by applicable data-protection law and, where required, a separate <strong>Data Processing Agreement (DPA)</strong>."
+  },
+  {
+   "t": "p",
+   "x": "SessionPilot will not sell Customer Data."
+  },
+  {
+   "t": "p",
+   "x": "We will not use Customer Data for unrelated advertising purposes."
+  },
+  {
+   "t": "sec",
+   "n": "5",
+   "x": "Personal data &amp; GDPR"
+  },
+  {
+   "t": "p",
+   "x": "SessionPilot processes personal data in accordance with applicable data-protection laws, including the <strong>EU General Data Protection Regulation (GDPR)</strong> where applicable."
+  },
+  {
+   "t": "p",
+   "x": "Depending on the processing activity, you may act as the data controller and SessionPilot may act as your data processor."
+  },
+  {
+   "t": "p",
+   "x": "We implement appropriate technical and organisational measures designed to protect personal data against unauthorised access, loss, alteration, or disclosure."
+  },
+  {
+   "t": "p",
+   "x": "Individuals may have rights under the GDPR, including rights of access, rectification, erasure, restriction, portability, and objection, subject to applicable legal conditions."
+  },
+  {
+   "t": "p",
+   "x": "More information about how personal data is processed is provided in our <strong>Privacy Policy</strong> and, where applicable, our <strong>Data Processing Agreement</strong>."
+  },
+  {
+   "t": "p",
+   "x": "Where personal data is transferred outside the EEA, appropriate safeguards will be used where required by applicable data-protection law, including applicable EU Standard Contractual Clauses where appropriate."
+  },
+  {
+   "t": "sec",
+   "n": "6",
+   "x": "Subscriptions &amp; payment"
+  },
+  {
+   "t": "p",
+   "x": "SessionPilot may offer different subscription plans with different features, user limits, locations, and usage restrictions."
+  },
+  {
+   "t": "p",
+   "x": "Unless otherwise stated:"
+  },
+  {
+   "t": "ul",
+   "x": [
+    "subscriptions are billed according to the selected plan;",
+    "fees are payable in accordance with the applicable billing period;",
+    "prices may be subject to applicable VAT and other taxes;",
+    "subscription limits apply according to the selected plan;",
+    "you are responsible for providing accurate billing information."
+   ]
+  },
+  {
+   "t": "p",
+   "x": "If a payment is overdue, we may notify you and, where legally permitted, restrict access to paid features until payment is resolved."
+  },
+  {
+   "t": "p",
+   "x": "Any renewal, cancellation, refund, or notice requirements applicable to your plan will be presented during purchase or in your order or subscription agreement."
+  },
+  {
+   "t": "sec",
+   "n": "7",
+   "x": "Employees &amp; user access"
+  },
+  {
+   "t": "p",
+   "x": "You are responsible for managing the users who have access to your SessionPilot account."
+  },
+  {
+   "t": "p",
+   "x": "You should only give employees and other authorised users the permissions they need for their role."
+  },
+  {
+   "t": "p",
+   "x": "You are responsible for:"
+  },
+  {
+   "t": "ul",
+   "x": [
+    "adding and removing users;",
+    "assigning appropriate roles and permissions;",
+    "keeping employee information accurate;",
+    "ensuring former employees no longer have unnecessary access;",
+    "complying with applicable employment and workplace laws."
+   ]
+  },
+  {
+   "t": "p",
+   "x": "SessionPilot does not determine your employees' wages, working conditions, employment status, or legal rights."
+  },
+  {
+   "t": "sec",
+   "n": "8",
+   "x": "Operational records"
+  },
+  {
+   "t": "p",
+   "x": "SessionPilot may allow you to create and maintain records relating to:"
+  },
+  {
+   "t": "ul",
+   "x": [
+    "attendance;",
+    "shifts and schedules;",
+    "checklists;",
+    "food safety;",
+    "cleaning;",
+    "maintenance;",
+    "incidents;",
+    "training;",
+    "documents;",
+    "inventory and waste;",
+    "payroll-related information."
+   ]
+  },
+  {
+   "t": "p",
+   "x": "These records are tools for operational management. You remain responsible for ensuring that your use of them complies with applicable employment, tax, food-safety, health and safety, and other local requirements."
+  },
+  {
+   "t": "p",
+   "x": "SessionPilot does not guarantee that use of the Service alone will satisfy a particular regulatory requirement."
+  },
+  {
+   "t": "sec",
+   "n": "9",
+   "x": "Third-party services &amp; integrations"
+  },
+  {
+   "t": "p",
+   "x": "The Service may integrate with third-party services such as payroll, accounting, communication, authentication, storage, or other business systems."
+  },
+  {
+   "t": "p",
+   "x": "Third-party services are governed by their own terms and privacy policies."
+  },
+  {
+   "t": "p",
+   "x": "We are not responsible for the availability, accuracy, security, or functionality of a third-party service that is outside our reasonable control."
+  },
+  {
+   "t": "sec",
+   "n": "10",
+   "x": "Intellectual property"
+  },
+  {
+   "t": "p",
+   "x": "SessionPilot and its software, interface, designs, documentation, trademarks, logos, and underlying technology remain owned by SessionPilot or its licensors."
+  },
+  {
+   "t": "p",
+   "x": "Your subscription gives you a limited, non-exclusive, non-transferable right to use the Service during the applicable subscription period."
+  },
+  {
+   "t": "p",
+   "x": "You may not copy, modify, distribute, sell, sublicense, reverse engineer, or create derivative works from the Service except where applicable law expressly permits it."
+  },
+  {
+   "t": "p",
+   "x": "Feedback you provide about the Service may be used by SessionPilot to improve its products without creating an obligation to compensate you."
+  },
+  {
+   "t": "sec",
+   "n": "11",
+   "x": "Service availability &amp; changes"
+  },
+  {
+   "t": "p",
+   "x": "We may update, improve, modify, or discontinue parts of the Service from time to time."
+  },
+  {
+   "t": "p",
+   "x": "Where a change materially affects the Service you have paid for, we will provide reasonable notice where required."
+  },
+  {
+   "t": "p",
+   "x": "We may perform maintenance that temporarily affects availability. Where reasonably practical, we will try to provide advance notice of planned maintenance."
+  },
+  {
+   "t": "p",
+   "x": "Nothing in these Terms limits any mandatory rights you may have under applicable law. EU rules provide specific protections for consumers receiving digital services, including remedies where a digital service does not conform to applicable requirements."
+  },
+  {
+   "t": "sec",
+   "n": "12",
+   "x": "Security &amp; incidents"
+  },
+  {
+   "t": "p",
+   "x": "We maintain reasonable technical and organisational safeguards designed to protect the Service and Customer Data."
+  },
+  {
+   "t": "p",
+   "x": "However, no system can be guaranteed to be completely secure."
+  },
+  {
+   "t": "p",
+   "x": "If we become aware of a security incident affecting personal data processed on your behalf, we will handle it in accordance with applicable law and our contractual obligations, including applicable data-processing terms."
+  },
+  {
+   "t": "sec",
+   "n": "13",
+   "x": "Termination"
+  },
+  {
+   "t": "p",
+   "x": "You may stop using the Service or cancel your subscription according to the cancellation terms applicable to your plan."
+  },
+  {
+   "t": "p",
+   "x": "We may suspend or terminate access where:"
+  },
+  {
+   "t": "ul",
+   "x": [
+    "you materially breach these Terms;",
+    "payment remains overdue;",
+    "your use creates a significant security or legal risk;",
+    "required by applicable law; or",
+    "the Service is discontinued."
+   ]
+  },
+  {
+   "t": "p",
+   "x": "Where appropriate and legally permitted, we will give you reasonable notice and an opportunity to resolve the issue before termination."
+  },
+  {
+   "t": "p",
+   "x": "Upon termination, your right to use the Service ends."
+  },
+  {
+   "t": "p",
+   "x": "We will handle Customer Data after termination according to the applicable subscription terms, Data Processing Agreement, and legal retention requirements."
+  },
+  {
+   "t": "sec",
+   "n": "14",
+   "x": "Disclaimers &amp; liability"
+  },
+  {
+   "t": "p",
+   "x": "The Service is provided with reasonable care and skill."
+  },
+  {
+   "t": "p",
+   "x": "To the extent permitted by applicable law, SessionPilot is not responsible for:"
+  },
+  {
+   "t": "ul",
+   "x": [
+    "decisions made by you based on information in the Service;",
+    "inaccurate information entered by users;",
+    "failures caused by third-party services;",
+    "internet or telecommunications failures;",
+    "events outside our reasonable control; or",
+    "your failure to configure or use the Service appropriately."
+   ]
+  },
+  {
+   "t": "p",
+   "x": "Nothing in these Terms excludes or limits liability that cannot legally be excluded or limited, including liability for fraud, wilful misconduct, or mandatory consumer rights."
+  },
+  {
+   "t": "p",
+   "x": "For business customers, any agreed limitation of liability will apply only to the extent permitted by applicable law."
+  },
+  {
+   "t": "sec",
+   "n": "15",
+   "x": "Consumer rights"
+  },
+  {
+   "t": "p",
+   "x": "SessionPilot primarily provides services to businesses and organisations. Where you qualify as a consumer under applicable EU or national law, nothing in these Terms is intended to remove or restrict mandatory consumer rights. Consumer contract terms must be clear and understandable, and unfair standard terms may not be binding on consumers under EU consumer-protection rules. Where mandatory consumer protection law applies, those rights take precedence over any conflicting provision of these Terms."
+  },
+  {
+   "t": "sec",
+   "n": "16",
+   "x": "Changes to these Terms"
+  },
+  {
+   "t": "p",
+   "x": "We may update these Terms when reasonably necessary, including to reflect changes to the Service, applicable law, security requirements, or business operations. We will provide reasonable notice of material changes where required. If you continue using the Service after the updated Terms take effect, the updated Terms will apply, except where applicable law requires a different form of acceptance."
+  },
+  {
+   "t": "sec",
+   "n": "17",
+   "x": "Governing law &amp; disputes"
+  },
+  {
+   "t": "p",
+   "x": "These Terms are governed by the laws of Sweden, without prejudice to any mandatory consumer-protection rights that apply in your country of residence. For business customers, disputes will be subject to the competent courts of Sweden, unless otherwise required by applicable law or agreed in writing. If you are a consumer, you retain any mandatory rights to bring proceedings before the courts available under applicable consumer-protection law."
+  }
+ ]
+}
