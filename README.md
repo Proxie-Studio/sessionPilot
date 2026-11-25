@@ -14,4 +14,4 @@ Svelte 5 + SvelteKit 3, prerendered to a fully static site (`@sveltejs/adapter-s
 - `src/lib/components/`  Header, Footer, Cta, Btn, Split (headline reveal), Plans (billing toggle), FaqList, TstMarquee, ProductPage, Legal …
 - `src/lib/actions.js`  `marquee`, `countUp`, scroll-reveal helpers
 - `src/lib/data/`  articles / privacy / terms JSON, product page content
-- `src/app.css`  global styles (carried over unchanged from the HTML version)
+- `src/app.css`  global styles. Design tokens live in `:root` (fonts, shadows and the `--glass*` / `--blur` glass system); the ambient background mesh is `body::before`. Setting the glass tokens to solid colours (as the `prefers-reduced-transparency` block does) turns the glass look off site-wide.

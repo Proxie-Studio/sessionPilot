@@ -56,8 +56,8 @@
     <button class="menu-btn" class:open aria-label={open ? 'Close menu' : 'Open menu'} aria-expanded={open} aria-controls="mnav" onclick={() => (open = !open)}>
       <span></span><span></span>
     </button>
+    <span class="nav-progress" aria-hidden="true"></span>
   </div>
-  <span class="nav-progress" aria-hidden="true"></span>
   <nav id="mnav" class="mnav" class:open aria-hidden={!open} inert={!open}>
     <ul class="wrap">
       {#each flat as n, i}
