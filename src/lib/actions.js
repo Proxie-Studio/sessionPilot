@@ -104,6 +104,64 @@ export function marquee(node, { secs = 40, gap = 0, pauseOnHover = false } = {})
   };
 }
 
+/**
+ * Segmented-control highlight: a white pill (the node's ::before) that glides to whichever
+ * child has the `.on` class. Pass any value that changes with the selection (e.g. the index)
+ * so the pill re-measures. Until measured, the static `.on` background is used as a fallback.
+ */
+export function pill(node, _key) {
+  node.classList.add('pill-track');
+  let raf;
+  const set = () => {
+    const el = node.querySelector('.on');
+    if (!el) return;
+    node.style.setProperty('--px', el.offsetLeft + 'px');
+    node.style.setProperty('--pw', el.offsetWidth + 'px');
+  };
+  const arm = () => {
+    set();
+    // enable the transition only after the first measurement so it doesn't slide in from 0
+    raf = requestAnimationFrame(() => (raf = requestAnimationFrame(() => node.classList.add('pill-ready'))));
+  };
+  arm();
+  document.fonts?.ready.then(set);
+  const ro = typeof ResizeObserver !== 'undefined' ? new ResizeObserver(set) : null;
+  ro?.observe(node);
+  return {
+    update: () => requestAnimationFrame(set),
+    destroy() {
+      cancelAnimationFrame(raf);
+      ro?.disconnect();
+    }
+  };
+}
+
+/**
+ * Cursor spotlight: one delegated listener that feeds the pointer position (--mx/--my)
+ * to whichever card matching `selector` is under the pointer. Returns a cleanup function.
+ */
+export function installSpotlight(selector) {
+  if (typeof matchMedia === 'undefined' || !matchMedia('(hover: hover) and (pointer: fine)').matches) return () => {};
+  let raf = 0, last;
+  const apply = () => {
+    raf = 0;
+    const el = last.target.closest?.(selector);
+    if (!el) return;
+    const r = el.getBoundingClientRect();
+    el.style.setProperty('--mx', last.clientX - r.left + 'px');
+    el.style.setProperty('--my', last.clientY - r.top + 'px');
+  };
+  const onMove = (e) => {
+    last = e;
+    raf ||= requestAnimationFrame(apply);
+  };
+  addEventListener('pointermove', onMove, { passive: true });
+  return () => {
+    removeEventListener('pointermove', onMove);
+    cancelAnimationFrame(raf);
+  };
+}
+
 /** Observe every not-yet-revealed element on the page (called after each navigation). */
 export function observeAll(root = document) {
   const o = observer();

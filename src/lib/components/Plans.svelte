@@ -1,5 +1,6 @@
 <script>
   import { APP } from '#lib/site.js';
+  import { pill } from '#lib/actions.js';
   import Btn from './Btn.svelte';
 
   // Billing toggle: the starter price tweens between €20 and €17 (-15% annual)
@@ -21,7 +22,7 @@
 </script>
 
 <div class="toggle-row">
-  <div class="toggle">
+  <div class="toggle" use:pill={annual}>
     <button class:on={!annual} onclick={() => setBilling(false)}>Monthly</button>
     <button class:on={annual} onclick={() => setBilling(true)}>Annual <b>-15%</b></button>
   </div>

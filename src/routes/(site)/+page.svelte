@@ -1,5 +1,5 @@
 <script>
-  import { marquee } from '#lib/actions.js';
+  import { marquee, pill } from '#lib/actions.js';
   import Split from '#lib/components/Split.svelte';
   import Btn from '#lib/components/Btn.svelte';
   import SecHead from '#lib/components/SecHead.svelte';
@@ -117,6 +117,9 @@
             <h3>{t}</h3>
           </div>
           <div class="acc-b"><p>{d}</p></div>
+          {#if step === i && platformVisible}
+            {#key step}<span class="acc-timer" aria-hidden="true"></span>{/key}
+          {/if}
         </li>
       {/each}
     </ul>
@@ -150,7 +153,7 @@
   </div>
   <div class="how reveal">
     <img class="how-bg" src="/assets/g2Q0UEGYPma6FK2cD4vkNBVTXao.png" alt="" />
-    <div class="tabs">
+    <div class="tabs" use:pill={tab}>
       {#each tabs as t, i}<button class:on={tab === i} onclick={() => pickTab(i)}>{t}</button>{/each}
     </div>
     <div class="frame">
