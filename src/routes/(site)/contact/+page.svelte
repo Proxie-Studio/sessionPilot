@@ -1,4 +1,5 @@
 <script>
+  import { base } from '#lib/base.js';
   import Split from '#lib/components/Split.svelte';
   import FaqSection from '#lib/components/FaqSection.svelte';
   import Cta from '#lib/components/Cta.svelte';
@@ -49,7 +50,7 @@
       </div>
     </div>
     <div class="fwrap reveal">
-      <img src="/assets/bONasUf3RJutHAw3vCeGWCCH6w.png" alt="" />
+      <img src="{base}/assets/bONasUf3RJutHAw3vCeGWCCH6w.png" alt="" />
       <form class="form" class:sent onsubmit={submit}>
         <label for="fn">First name</label><input id="fn" placeholder="Sarah" required />
         <label for="em">Work email</label><input id="em" type="email" placeholder="sarah@company.com" required />

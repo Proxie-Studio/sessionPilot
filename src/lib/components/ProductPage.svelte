@@ -1,4 +1,5 @@
 <script>
+  import { base } from '#lib/base.js';
   import { countUp } from '#lib/actions.js';
   import Split from './Split.svelte';
   import PillBtn from './PillBtn.svelte';
@@ -20,9 +21,9 @@
     <span class="eyebrow reveal">{o.eyebrow}</span>
     <Split text={o.h1} />
     <p class="reveal" style="--d:.4s">{o.sub}</p>
-    <div class="reveal" style="--d:.5s"><PillBtn href="/contact" label="Try this workflow" /></div>
+    <div class="reveal" style="--d:.5s"><PillBtn href="{base}/contact" label="Try this workflow" /></div>
   </div>
-  <div class="panel hero-panel reveal"><img src="/assets/{o.heroImg}" alt="" /></div>
+  <div class="panel hero-panel reveal"><img src="{base}/assets/{o.heroImg}" alt="" /></div>
 </section>
 
 <section class="wrap sec">
@@ -36,11 +37,11 @@
   {#if o.big}
     <article class="bigcard reveal">
       <div class="tx"><Dots n={1} /><h3>{o.big.t}</h3><p>{o.big.d}</p></div>
-      <div class="pn"><img src="/assets/{o.big.img}" alt="" /></div>
+      <div class="pn"><img src="{base}/assets/{o.big.img}" alt="" /></div>
     </article>
   {:else}
     <article class="bigcard solo reveal">
-      <div class="pn"><img src="/assets/{o.soloImg}" alt="" style="left:10%;width:90%" /></div>
+      <div class="pn"><img src="{base}/assets/{o.soloImg}" alt="" style="left:10%;width:90%" /></div>
     </article>
   {/if}
   <div class="minis">
@@ -59,7 +60,7 @@
     <div class="in">
       <div class="qt">
         <span>{o.quote}</span>
-        <div class="who"><img src="/assets/{o.avatar}" alt="" /><div>{o.who}<small>{o.role}</small></div></div>
+        <div class="who"><img src="{base}/assets/{o.avatar}" alt="" /><div>{o.who}<small>{o.role}</small></div></div>
       </div>
       {#if o.stat}
         <div class="stat"><b use:countUp={parseInt(o.stat[0])}>{o.stat[0]}</b>{o.stat[1]}</div>
@@ -68,7 +69,7 @@
       {/if}
     </div>
   </div>
-  <div class="logos-row reveal">{#each logos as l}<img src="/assets/{l}" alt="" />{/each}</div>
+  <div class="logos-row reveal">{#each logos as l}<img src="{base}/assets/{l}" alt="" />{/each}</div>
 </section>
 <div style="height:80px"></div>
 

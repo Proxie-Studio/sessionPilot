@@ -26,4 +26,5 @@ export const NAV = [
   { label: 'Articles', href: '/article' }
 ];
 
-export const asset = (f) => `/assets/${f}`;
+import { base } from '#lib/base.js';
+export const asset = (f) => `${base}/assets/${f}`;

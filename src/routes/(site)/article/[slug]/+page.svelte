@@ -1,4 +1,5 @@
 <script>
+  import { base } from '#lib/base.js';
   import Cta from '#lib/components/Cta.svelte';
 
   let { data } = $props();
@@ -9,11 +10,11 @@
 
 <section class="wrap">
   <article class="post">
-    <a class="back" href="/article">‹ Articles</a>
+    <a class="back" href="{base}/article">‹ Articles</a>
     <h1 class="reveal">{a.title}</h1>
     <p class="sub reveal" style="--d:.1s">{a.sub}</p>
   </article>
-  <div class="post-img reveal"><img src="/assets/{a.hero}" alt="" /></div>
+  <div class="post-img reveal"><img src="{base}/assets/{a.hero}" alt="" /></div>
   <div class="post-body reveal">
     {#each a.blocks as b}
       {#if b.t === 'h'}
@@ -32,8 +33,8 @@
     <h3>Related posts</h3>
     <div class="g">
       {#each data.related as r}
-        <a href="/article/{r.slug}">
-          <div class="im"><img src="/assets/{r.img}" alt="" /></div>
+        <a href="{base}/article/{r.slug}">
+          <div class="im"><img src="{base}/assets/{r.img}" alt="" /></div>
           <h5>{r.title}</h5><small>{r.date}</small>
         </a>
       {/each}

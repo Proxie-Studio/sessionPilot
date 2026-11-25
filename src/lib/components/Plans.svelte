@@ -1,4 +1,5 @@
 <script>
+  import { base } from '#lib/base.js';
   import { APP } from '#lib/site.js';
   import { pill } from '#lib/actions.js';
   import Btn from './Btn.svelte';
@@ -36,7 +37,7 @@
     <Btn href={APP} label="Get started free" cls="btn-light" />
   </article>
   <article class="plan pro reveal" style="--d:.1s">
-    <img class="plan-bg" src="/assets/izM6Io4LYERFIddIZdCV0bYEH5k.png" alt="" />
+    <img class="plan-bg" src="{base}/assets/izM6Io4LYERFIddIZdCV0bYEH5k.png" alt="" />
     <h4><em>Professional</em></h4>
     <div class="price">Contact Sales</div>
     <p class="muted">per month, billed monthly</p>
@@ -50,6 +51,6 @@
     <p class="muted">per seat / month</p>
     <p class="muted">For growing teams that want shared intelligence, role-based access, and centralized control.</p>
     <ul><li>Restaurant Groups</li><li>Unlimited restaurants</li><li>Multi-location dashboard</li><li>Role permissions</li><li>API</li><li>Custom integrations</li><li>Dedicated onboarding</li><li>Contact Sales</li></ul>
-    <Btn href="/contact" label="Talk to sales" cls="btn-light" />
+    <Btn href="{base}/contact" label="Talk to sales" cls="btn-light" />
   </article>
 </div>

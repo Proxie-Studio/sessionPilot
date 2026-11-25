@@ -1,4 +1,5 @@
 <script>
+  import { base } from '#lib/base.js';
   import Split from '#lib/components/Split.svelte';
 </script>
 
@@ -11,7 +12,7 @@
     <p class="reveal" style="--d:.3s">Short stories from hospitality teams using Session Pilot to make scheduling, staffing, and daily operations easier.</p>
   </div>
   <article class="vcard reveal">
-    <video src="/assets/beKnBi071kBggvnE51edbT82AAQ.mp4" controls preload="metadata" playsinline>
+    <video src="{base}/assets/beKnBi071kBggvnE51edbT82AAQ.mp4" controls preload="metadata" playsinline>
       <track kind="captions" />
     </video>
     <h2>Scheduling two busy locations just got effortless.</h2>

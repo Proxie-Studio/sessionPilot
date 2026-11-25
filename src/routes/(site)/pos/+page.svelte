@@ -1,4 +1,5 @@
 <script>
+  import { base } from '#lib/base.js';
   import Split from '#lib/components/Split.svelte';
   import Btn from '#lib/components/Btn.svelte';
   import Dots from '#lib/components/Dots.svelte';
@@ -30,8 +31,8 @@
     <Split text="Run your floor and your team from one platform." style="max-width:560px" />
     <p class="reveal" style="--d:.4s;max-width:470px">A modern POS for restaurants, cafés and bars connected to your scheduling and your labour costs. Flat €150 per machine. Nothing down. And we never take a cut of your sales.</p>
     <div class="btn-row reveal" style="--d:.5s">
-      <Btn href="/contact" label="Book a demo" extra="btn-sm" />
-      <Btn href="/pricing" label="See pricing" cls="btn-light" extra="btn-sm" />
+      <Btn href="{base}/contact" label="Book a demo" extra="btn-sm" />
+      <Btn href="{base}/pricing" label="See pricing" cls="btn-light" extra="btn-sm" />
     </div>
   </div>
   <div class="pos-meta reveal">No percentage on your revenue · Hardware included · Kiosks &amp; handhelds · Built for horeca</div>
@@ -66,7 +67,7 @@
   <div class="center-blk">
     <h2 class="reveal">The only POS that already knows your staffing.</h2>
     <p class="reveal">Session Pilot started with scheduling, so when a sale hits your till it isn’t just a number  it’s part of the same system that plans your shifts and tracks your wage bill. Watch labour cost against live revenue, catch a slow Tuesday before it costs you, and run the whole operation from one login.</p>
-    <div class="reveal"><Btn href="/features" label="See Session Pilot scheduling → €4 per employee / month" cls="btn-light" extra="btn-sm" /></div>
+    <div class="reveal"><Btn href="{base}/features" label="See Session Pilot scheduling → €4 per employee / month" cls="btn-light" extra="btn-sm" /></div>
   </div>
 </section>
 
@@ -81,7 +82,7 @@
   <div class="or-band reveal">
     <h2>See it on your own floor.</h2>
     <p>Book a 20-minute demo and we’ll put your sales and your staffing on one screen.</p>
-    <Btn href="/contact" label="Book a demo" extra="btn-sm" />
+    <Btn href="{base}/contact" label="Book a demo" extra="btn-sm" />
   </div>
 </section>
 <div style="height:100px"></div>

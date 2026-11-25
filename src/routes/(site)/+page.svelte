@@ -1,4 +1,5 @@
 <script>
+  import { base } from '#lib/base.js';
   import { marquee, pill } from '#lib/actions.js';
   import Split from '#lib/components/Split.svelte';
   import Btn from '#lib/components/Btn.svelte';
@@ -73,18 +74,18 @@
 <!-- HERO -->
 <section class="wrap hero-wrap">
   <div class="hero">
-    <video class="hero-video" src="/assets/vfuMd5nhYgjGrCIqN0ns12STqk.mp4" autoplay muted loop playsinline></video>
+    <video class="hero-video" src="{base}/assets/vfuMd5nhYgjGrCIqN0ns12STqk.mp4" autoplay muted loop playsinline></video>
     <div class="hero-shade"></div>
     <div class="hero-in">
       <Split text="Restaurant Operations. Simplified. Every Shift. Every Store." />
       <p class="hero-p reveal" style="--d:.5s">Everything your restaurant needs to run daily operations in one platform from opening checklists and food safety to employee scheduling, payroll reports, maintenance, communication, and compliance.</p>
-      <Btn href="/contact" label="Book a Demo" extra="reveal" style="--d:.65s" />
+      <Btn href="{base}/contact" label="Book a Demo" extra="reveal" style="--d:.65s" />
     </div>
   </div>
   <p class="trusted reveal">Trusted by restaurants, cafés, hotels, and restaurant groups to digitize daily operations.</p>
   <div class="marquee logos" aria-hidden="true">
     <div class="track" use:marquee={{ secs: 40 }}>
-      {#each logos as [src, alt]}<img src="/assets/{src}" {alt} />{/each}
+      {#each logos as [src, alt]}<img src="{base}/assets/{src}" {alt} />{/each}
     </div>
   </div>
 </section>
@@ -97,8 +98,8 @@
       <article class="card" class:active={activeCard === i} role="presentation"
         onmouseenter={() => (activeCard = i)} onclick={() => (activeCard = i)}>
         <span class="num">{c.n}</span>
-        <img class="mosaic" src="/assets/{c.mosaic}" alt="" />
-        <div class="prev"><img src="/assets/{c.prev}" alt="" /></div>
+        <img class="mosaic" src="{base}/assets/{c.mosaic}" alt="" />
+        <div class="prev"><img src="{base}/assets/{c.prev}" alt="" /></div>
         <div class="ct"><h3>{c.t}</h3><p>{c.d}</p></div>
       </article>
     {/each}
@@ -124,7 +125,7 @@
       {/each}
     </ul>
     <div class="shot">
-      {#each steps as s, i}<img class:on={step === i} src="/assets/{s[2]}" alt="" />{/each}
+      {#each steps as s, i}<img class:on={step === i} src="{base}/assets/{s[2]}" alt="" />{/each}
     </div>
   </div>
 </section>
@@ -152,12 +153,12 @@
     <p class="lead2 reveal" style="--d:.16s">From ask to done. Without the back-and-forth.</p>
   </div>
   <div class="how reveal">
-    <img class="how-bg" src="/assets/g2Q0UEGYPma6FK2cD4vkNBVTXao.png" alt="" />
+    <img class="how-bg" src="{base}/assets/g2Q0UEGYPma6FK2cD4vkNBVTXao.png" alt="" />
     <div class="tabs" use:pill={tab}>
       {#each tabs as t, i}<button class:on={tab === i} onclick={() => pickTab(i)}>{t}</button>{/each}
     </div>
     <div class="frame">
-      <video bind:this={video} src="/assets/nLpQcbzQAcQWS4hJbUSqc9IrYA.mp4" autoplay muted loop playsinline></video>
+      <video bind:this={video} src="{base}/assets/nLpQcbzQAcQWS4hJbUSqc9IrYA.mp4" autoplay muted loop playsinline></video>
     </div>
   </div>
 </section>

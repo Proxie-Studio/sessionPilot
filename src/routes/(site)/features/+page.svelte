@@ -1,4 +1,5 @@
 <script>
+  import { base } from '#lib/base.js';
   import Split from '#lib/components/Split.svelte';
   import Dots from '#lib/components/Dots.svelte';
   import Cta from '#lib/components/Cta.svelte';
@@ -24,14 +25,14 @@
     <Split text="Built for the work that happens every shift." />
     <p class="reveal" style="--d:.4s">Standardize daily operations, simplify staff management, and keep every restaurant running consistently.</p>
   </div>
-  <div class="panel hero-panel reveal"><img src="/assets/S2xkP4y1y0CWBmwndn01fzLwQf0.png" alt="Attendance" /></div>
+  <div class="panel hero-panel reveal"><img src="{base}/assets/S2xkP4y1y0CWBmwndn01fzLwQf0.png" alt="Attendance" /></div>
 </section>
 
 <section class="wrap" style="margin-top:90px">
   {#each rows as [t, d, img]}
     <article class="frow reveal">
       <div class="tx"><Dots n={1} /><h3>{@html t}</h3><p>{d}</p></div>
-      <div class="pn"><img src="/assets/{img}" alt="" /></div>
+      <div class="pn"><img src="{base}/assets/{img}" alt="" /></div>
     </article>
   {/each}
   <div class="minis">

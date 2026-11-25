@@ -1,4 +1,5 @@
 <script>
+  import { base } from '#lib/base.js';
   import { marquee } from '#lib/actions.js';
   const items = [
     ['Before SessionPilot OPS we managed everything using paper checklists. Now every restaurant follows the same standards.', 'Savle5DZHOWqtAcOxHiJI3UY.png', 'James R.', 'Operations Manager'],
@@ -12,8 +13,8 @@
     {#each items as [q, img, name, role]}
       <figure class="t">
         <blockquote>{q}</blockquote>
-        <figcaption><img src="/assets/{img}" alt="" /><div><b>{name}</b><span>{role}</span></div></figcaption>
-        <a href="/testimonials">Read on</a>
+        <figcaption><img src="{base}/assets/{img}" alt="" /><div><b>{name}</b><span>{role}</span></div></figcaption>
+        <a href="{base}/testimonials">Read on</a>
       </figure>
     {/each}
   </div>

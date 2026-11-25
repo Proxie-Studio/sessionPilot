@@ -1,10 +1,11 @@
 <script>
+  import { base } from '#lib/base.js';
   import { APPSTORE, PLAY } from '#lib/site.js';
 </script>
 
 <section class="wrap">
   <div class="cta reveal">
-    <img class="cta-bg" src="/assets/IsVu6rT6bqu5BoGXtiz6Yd36c4.png" alt="" />
+    <img class="cta-bg" src="{base}/assets/IsVu6rT6bqu5BoGXtiz6Yd36c4.png" alt="" />
     <div class="cta-in">
       <h2>Run Your Operations From Anywhere.</h2>
       <p>Manage daily tasks, checklists, teams, and operations directly from your phone.</p>

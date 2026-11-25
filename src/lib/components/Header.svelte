@@ -1,4 +1,5 @@
 <script>
+  import { base } from '#lib/base.js';
   import { page } from '$app/state';
   import { afterNavigate } from '$app/navigation';
   import { NAV, APP } from '#lib/site.js';
@@ -6,7 +7,7 @@
 
   let scrolled = $state(false);
   let open = $state(false); // mobile menu
-  const path = $derived(page.url.pathname.replace(/\/$/, '') || '/');
+  const path = $derived(page.url.pathname.slice(base.length).replace(/\/$/, '') || '/');
   // Industry sub-pages highlight "Industries", card fees highlights "POS"
   const current = $derived(
     ['/restaurants', '/hotels', '/hospitality'].includes(path)
@@ -31,24 +32,24 @@
 
 <header class="nav" class:scrolled class:menu-open={open}>
   <div class="wrap nav-in">
-    <a href="/" class="logo"><img src="/assets/LBPIdUJOxnjdmfjUONPoNOlkRg.png" alt="Session Pilot" /></a>
+    <a href="{base}/" class="logo"><img src="{base}/assets/LBPIdUJOxnjdmfjUONPoNOlkRg.png" alt="Session Pilot" /></a>
     <nav class="links">
       {#each NAV as n, i}
         {#if i}<i></i>{/if}
         {#if n.children}
           <!-- Opens on hover and on keyboard focus (focus-within) -->
           <div class="dd">
-            <a href={n.href} class:cur={current === n.href} aria-haspopup="true">{n.label}</a>
+            <a href={base + n.href} class:cur={current === n.href} aria-haspopup="true">{n.label}</a>
             <div class="dd-menu">
               <ul>
                 {#each n.children as c}
-                  <li><a href={c.href} class:on={path === c.href}>{c.label}</a></li>
+                  <li><a href={base + c.href} class:on={path === c.href}>{c.label}</a></li>
                 {/each}
               </ul>
             </div>
           </div>
         {:else}
-          <a href={n.href} class:cur={current === n.href}>{n.label}</a>
+          <a href={base + n.href} class:cur={current === n.href}>{n.label}</a>
         {/if}
       {/each}
     </nav>
@@ -62,7 +63,7 @@
     <ul class="wrap">
       {#each flat as n, i}
         <li class:sub={n.sub} style="--i:{i}">
-          <a href={n.href} class:cur={n.sub ? path === n.href : current === n.href}>{n.label}</a>
+          <a href={base + n.href} class:cur={n.sub ? path === n.href : current === n.href}>{n.label}</a>
         </li>
       {/each}
       <li class="mcta" style="--i:{flat.length}"><Btn href={APP} label="Customer Login" extra="btn-sm" /></li>
