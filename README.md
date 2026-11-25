@@ -1,4 +1,4 @@
-# SessionPilot – SvelteKit version
+# SessionPilot – SvelteKit version 
 
 Svelte 5 + SvelteKit 3, prerendered to a fully static site (`@sveltejs/adapter-static`).
 
