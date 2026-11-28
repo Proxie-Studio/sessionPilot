@@ -1,17 +1,16 @@
 <script>
   import { base } from '#lib/base.js';
-  import { APP } from '#lib/site.js';
   import { pill } from '#lib/actions.js';
   import Btn from './Btn.svelte';
 
-  // Billing toggle: the starter price tweens between €20 and €17 (-15% annual)
+  // Billing toggle: starter price tweens between €20/month and €204/year (€17/month x 12, -15%)
   let annual = $state(false);
   let price = $state(20);
   let raf;
   function setBilling(a) {
     annual = a;
     const from = price,
-      to = a ? 17 : 20,
+      to = a ? 204 : 20,
       t0 = performance.now();
     cancelAnimationFrame(raf);
     (function step(t) {
@@ -31,10 +30,10 @@
 <div class="plans">
   <article class="plan reveal">
     <h4>Starter</h4>
-    <div class="price"><span>€{price}</span>/month</div>
+    <div class="price"><span>€{price}</span>{annual ? "/year" : "/month"}</div>
     <p class="muted">Perfect for independent restaurants</p>
     <ul><li>Up to 10 Employees</li><li>Daily Checklists</li><li>SOP Library</li><li>Task Management</li><li>Mobile App</li><li>Only active members billed</li></ul>
-    <Btn href={APP} label="Get started free" cls="btn-light" />
+    <Btn href="{base}/contact" label="Get started" cls="btn-light" />
   </article>
   <article class="plan pro reveal" style="--d:.1s">
     <img class="plan-bg" src="{base}/assets/izM6Io4LYERFIddIZdCV0bYEH5k.png" alt="" />
@@ -43,7 +42,7 @@
     <p class="muted">per month, billed monthly</p>
     <p class="muted">Growing restaurants Everything in Starter</p>
     <ul><li>Food Safety</li><li>Payroll Reports</li><li>Shift Management</li><li>Maintenance</li><li>Documents</li></ul>
-    <Btn href={APP} label="Get started free" cls="btn-dark" />
+    <Btn href="{base}/contact" label="Get started" cls="btn-dark" />
   </article>
   <article class="plan reveal" style="--d:.2s">
     <h4><em>Enterprise</em></h4>

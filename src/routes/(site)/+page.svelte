@@ -20,10 +20,10 @@
 
   /* ---- "Built for Restaurant Operations": hover/click expands a card ---- */
   const cards = [
-    { n: '01.', mosaic: 'ienddKMr5YHn8OtJfjhZUVFgCo.png', prev: '8S7OZRso8cxwYeIAVJYxq7CfjY0.png', t: 'Opening & Closing Checklists', d: 'Standardize every shift with digital opening and closing checklists. Ensure tasks are completed consistently and nothing important is missed.' },
-    { n: '02.', mosaic: 'ienddKMr5YHn8OtJfjhZUVFgCo.png', prev: 'l5RmVhIj5wNe4KNpgEzIuisEGI8.png', t: 'Standard Operating Procedures', d: 'Give every employee clear, consistent instructions for completing tasks correctly across every shift.' },
-    { n: '03.', mosaic: 'sdp9AiOfotrZg64RT2mspNduuM.png', prev: 'ob0oygeMcK6ZqXKZfNbLieZ7nK4.png', t: 'Team Communication', d: 'Announcements, shift updates, and team messages all in one place. SessionPilot keeps every restaurant aligned, with no missed information or extra work.' },
-    { n: '04.', mosaic: 'R0ysj5aZ9R2YoXztXqL6eynb9Uo.png', prev: 'mkl94dFlLeKhO9DUnobzWFDss.png', t: 'Real-time Visibility', d: 'Track tasks, checklists, and issues in real time across every restaurant. SessionPilot gives managers instant visibility into what’s done, what’s pending, and what needs attention.' }
+    { n: '01.', mosaic: 'mosaic-checklists.svg', prev: 'prev-checklists.svg', t: 'Opening & Closing Checklists', d: 'Standardize every shift with digital opening and closing checklists. Ensure tasks are completed consistently and nothing important is missed.' },
+    { n: '02.', mosaic: 'mosaic-sops.svg', prev: 'prev-sops.svg', t: 'Standard Operating Procedures', d: 'Give every employee clear, consistent instructions for completing tasks correctly across every shift.' },
+    { n: '03.', mosaic: 'mosaic-communication.svg', prev: 'prev-communication.svg', t: 'Team Communication', d: 'Announcements, shift updates, and team messages all in one place. SessionPilot keeps every restaurant aligned, with no missed information or extra work.' },
+    { n: '04.', mosaic: 'mosaic-visibility.svg', prev: 'prev-visibility.svg', t: 'Real-time Visibility', d: 'Track tasks, checklists, and issues in real time across every restaurant. SessionPilot gives managers instant visibility into what’s done, what’s pending, and what needs attention.' }
   ];
   let activeCard = $state(1);
 
